@@ -4,4 +4,5 @@ print(1.0e10)
 
 print (i for i in range(10))
 
-print(1+1) #from namanhishere
+print(1+1) 
+print(2+2) 
